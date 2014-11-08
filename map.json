@@ -1,8 +1,5 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-11-08T14:46:02Z",
   "features": [
     {
       "type": "Feature",
@@ -1125,7 +1122,8 @@
       "id": "node/672295977",
       "properties": {
         "@id": "node/672295977",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "working": "no"
       },
       "geometry": {
         "type": "Point",
@@ -1422,21 +1420,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1188316046",
-      "properties": {
-        "@id": "node/1188316046",
-        "amenity": "drinking_water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9248039,
-          41.0651278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1199086661",
       "properties": {
         "@id": "node/1199086661",
@@ -1452,21 +1435,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1201806842",
-      "properties": {
-        "@id": "node/1201806842",
-        "amenity": "drinking_water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9303012,
-          41.0638018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1206064596",
       "properties": {
         "@id": "node/1206064596",
@@ -1477,37 +1445,6 @@
         "coordinates": [
           17.191799,
           41.0136653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1223256203",
-      "properties": {
-        "@id": "node/1223256203",
-        "amenity": "drinking_water",
-        "name": "Pomp di Marang'"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9232114,
-          41.0627629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1224144846",
-      "properties": {
-        "@id": "node/1224144846",
-        "amenity": "drinking_water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9268589,
-          41.0655607
         ]
       }
     },
@@ -1603,38 +1540,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1364984752",
-      "properties": {
-        "@id": "node/1364984752",
-        "amenity": "drinking_water",
-        "layer": "2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9110918,
-          41.1047104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1364984760",
-      "properties": {
-        "@id": "node/1364984760",
-        "amenity": "drinking_water",
-        "layer": "2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9107885,
-          41.1042555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1369115581",
       "properties": {
         "@id": "node/1369115581",
@@ -1660,21 +1565,6 @@
         "coordinates": [
           16.6517731,
           40.9365061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1610897581",
-      "properties": {
-        "@id": "node/1610897581",
-        "amenity": "drinking_water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9681228,
-          41.0907846
         ]
       }
     },
